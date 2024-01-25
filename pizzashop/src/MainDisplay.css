@@ -1,0 +1,41 @@
+/* Style for the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-color: black;
+    margin-top: 20px;
+  }
+  
+  /* Style for table headers */
+  th {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Style for table cells */
+  td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  /* Style for cancel button */
+  .button-cancel {
+    padding: 5px 10px;
+    background-color: #e04d4d;
+    color: white;
+    cursor: pointer;
+    border: none;
+  }
+  
+  /* Style for the main container */
+  .container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+
+  .pizza-shop{
+    background-color: aqua;
+  }
+  
